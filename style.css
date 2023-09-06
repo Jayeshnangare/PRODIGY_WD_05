@@ -173,10 +173,15 @@ h1,h3{
     html {
         font-size: 12px;
     }
+    
     .city-time h1{
     margin: 0;
     margin-bottom: 0.2em;
     font-size: 1.5em;
+}
+    .temp h1{
+    margin: 0;
+    font-size: 5em;
 }
 
 }
@@ -191,6 +196,12 @@ h1,h3{
     margin-bottom: 0.2em;
     font-size: 1.5em;
 }
+    
+.temp h1{
+    margin: 0;
+    font-size: 5em;
+}
+
 
 }
 
